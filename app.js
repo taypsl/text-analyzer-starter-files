@@ -7,10 +7,6 @@ $(document).ready(function() {
 */
 
 
-//1. set up functions, four separate and one main that calls them all. 
-// function analyzeText(textInput) {  }
-//		function countTotalWords() {var spaces = " "; var totalCount = [] + 1 }
-
 
 function textAnalyzer(textInput) {
 	var newArray = textInput.split(" ");
